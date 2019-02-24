@@ -12,7 +12,7 @@ II. Interpolation and Curve Fitting
  - Fitting with a Straight Line (Linear Regression)
  - Fitting with a Polynomial Curve
  
-II. Numerical Differentiation
+III. Numerical Differentiation
  - Finite Differences Method
  
 IV. Numerical Integration
